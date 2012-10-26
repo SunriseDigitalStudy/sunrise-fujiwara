@@ -1,0 +1,45 @@
+https://github.com/SunriseDigitalStudy/sunriseezawa
+
+
+git push https://github.com/SunriseDigitalStudy/sunriseezawa
+
+$ git clone https://github.com/SunriseDigitalStudy/sunriseezawa
+
+
+git add gallery2.html
+
+----------------コマンド---------------------
+
+gitディレクトリを作成
+
+	コマンド＞$ mkdir git
+	
+gitディレクトリに移動
+
+	コマンド＞$ cd git
+
+
+$ pwd 今ドコにいるか調べる
+
+$ ls -l 今いるフォルダの中身をリスト化して見る
+
+$ git status 現在の状態を見る
+
+
+インデックスにステージします。
+
+	コマンド＞$ git add 追跡したいファイル名
+	
+ステージした内容をコミットします。
+
+	コマンド＞$ git commit -m "コミット内容"
+
+https://github.com/SunriseDigitalStudy/リポジトリ名
+上記ページのSSHのURLをコピーして、次のコマンドで使用します。
+$ git clone の後ろにコピーしたURLを貼り付けてください。
+
+	コマンド＞$ git clone git@github.com:SunriseDigitalStudy/リポジトリの名前
+
+-------------------------------------
+
+＄ cd sunriseezawa 20120702
